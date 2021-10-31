@@ -1,0 +1,8 @@
+lab50: 
+  window:
+    - editor
+    - readme
+    - terminal
+  cmd: python Hello.py
+  files:
+    - !include Hello.py
