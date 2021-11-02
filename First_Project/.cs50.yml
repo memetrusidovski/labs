@@ -3,6 +3,5 @@ lab50:
     - editor
     - readme
     - terminal
-  cmd: python Hello.py
   files:
     - !include Hello.py
